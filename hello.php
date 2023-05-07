@@ -1,5 +1,10 @@
 <p>
     <script>
         reresdasdasd
+        abssdas
+        datesd
+        abssdasd
+        abssdasd
+        addslashesas
     </script>
 </p>
